@@ -1,4 +1,4 @@
-//projects desing
+//projects 
 //NegativeAmountException.java
 public class NegativeAmountException extends Exception{
       NegativeAmountException(){
