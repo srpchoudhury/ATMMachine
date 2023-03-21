@@ -1,4 +1,4 @@
-//projects 
+//projects  ATM
 //NegativeAmountException.java
 public class NegativeAmountException extends Exception{
       NegativeAmountException(){
